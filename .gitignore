@@ -1,0 +1,47 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Keras, TensorFlow, and model files
+*.h5
+*.keras
+
+# PyCharm settings
+.idea/
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Other common IDE directories
+.vscode/
+.idea/
+.vs/
+
+# Dataset-specific files
+skin-cancer-mnist-ham10000.zip
+dataset/
+
+# Other temporary or configuration files
+*.bak
+*.swp
+*.tmp
