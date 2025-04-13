@@ -41,7 +41,7 @@ Download the HAM10000 dataset using the Kaggle API:
 powershell
 Copy
 # Download the HAM10000 dataset from Kaggle
-kaggle datasets download -d kmader/skin-cancer-mnist-ham10000
+kaggle datasets download -d kmader/=
 This will download the dataset as a zip file to the current directory.
 
 5. Unzip the Dataset
